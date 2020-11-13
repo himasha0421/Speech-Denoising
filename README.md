@@ -4,7 +4,7 @@ Beginner tutorials on speech signal enhancement using Fully Connected NN , 1D CN
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install below packages .
 
 ```bash
 pip install librosa
